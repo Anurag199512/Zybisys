@@ -1,0 +1,22 @@
+.buysell{
+    text-decoration: none;
+    color:yellow;
+
+}
+
+td{
+    margin: 8px;
+    padding:  0 10px;
+}
+
+.buyingFailed{
+    color:red;
+}
+
+
+.dashboard{
+    justify-content: flex-end;
+    display: block;
+     
+    margin-left: 30%;
+}
